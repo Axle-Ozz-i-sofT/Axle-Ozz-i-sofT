@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Axle-Ozz-i-sofT
 - 👀 I’m interested in Software development and Computer electronics.
 - 🌱 I’m currently learning everything ICT with a current focus on C, FreeBASIC and Python 3.  
+  
+Discussions are curently under Axle-Ozz-i-sofT  
 
 ---
 
